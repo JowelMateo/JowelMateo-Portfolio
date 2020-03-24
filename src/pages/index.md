@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Social Media Marketing
+image: /img/jowelmateo2.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Let your audience know where you are, what you do and how to reach out to you!'
 mainpitch:
   title: Why Kaldi
   description: >
