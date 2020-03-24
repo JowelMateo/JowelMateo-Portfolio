@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Social Media Marketing
-image: /img/jowelmateo2.png
+image: /img/social-media-3758364_1920.jpg
 heading: Great coffee with a conscience
 subheading: 'Let your audience know where you are, what you do and how to reach out to you!'
 mainpitch:
